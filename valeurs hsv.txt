@@ -1,0 +1,11 @@
+Teinte  = 170
+delta   = 10
+
+Sat min = 140
+Sat max = 210
+
+val min = 90
+val max = 215
+
+
+casquette
